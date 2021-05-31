@@ -12,7 +12,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
  *
- * advice是对某一功能进行增强/
+ * advice是对某一功能进行增强
  * 对返回响应的增强
  * @author zzxstart
  * @date 2020/5/5 - 22:47
