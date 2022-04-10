@@ -7,6 +7,7 @@ package threadcoreknowledge.createthreads;
 public class RunnableStyle implements Runnable{
     public static void main(String[] args) {
     Thread thread =new Thread(new RunnableStyle());
+
     thread.start();
     
     }
